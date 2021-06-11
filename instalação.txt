@@ -1,0 +1,19 @@
+===============   tutotiral ===============
+1°  copiar as pastas para os respectivos directorios 
+
+C:\xampp\postagem
+
+C:\xampp\htdocs\postagem_public
+
+criação do banco
+create database postagem_bd;
+
+CREATE TABLE tb_postagens (
+  id INTEGER DEFAULT NULL,
+  titulo varchar(100) DEFAULT NULL,
+  texto text DEFAULT NULL
+) 
+pronto :D
+
+sistema online e funcionando  
+link: http://consumapiweb2.rf.gd/index.php
